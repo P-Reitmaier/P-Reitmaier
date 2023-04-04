@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @P-Reitmaier
-- 👀 I’m interested in D&D, Python, Data Science and much more
+- 👀 I’m interested in Python, Data Science, D&D, and much more
 - currently studying Computer Science at the Univesity of Applied Sciences of Kempten, getting my Bachelors
 
 <!---
